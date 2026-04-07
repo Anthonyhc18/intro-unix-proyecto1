@@ -1,0 +1,1 @@
+Hashes seccion 3
