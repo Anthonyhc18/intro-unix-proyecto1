@@ -1,4 +1,6 @@
-# 1. Manual Entropy Calculations
+ Section 2: Password Management and Information Theory
+
+## 1. Manual Entropy Calculations
 The entropy of a password is calculated using the formula $H = L \times \log_2(N)$, where $L$ is the length and $N$ is the number of possible symbols (Shannon, 1948).
 
 * **Numeric (8 chars):** $H = 8 \times \log_2(10) \approx 26.58$ bits.
